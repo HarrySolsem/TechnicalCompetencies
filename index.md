@@ -1,5 +1,5 @@
 ﻿---
-title: Technical Competencies
+title: Teknisk kompetanse
 ---
 
 ## Denne tabellen viser noe av min kompetanse innen tekniske verktøy, metodikker og rammeverk
