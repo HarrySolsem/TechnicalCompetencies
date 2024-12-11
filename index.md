@@ -6,6 +6,8 @@ title: Technical Competencies
 
 ***
 <p id="annenkompetanse"></p>
+### ANNEN KOMPETANSE
+
 | Metodikker               | Programmeringsspråk | Verktøy                      | Rammeverk                    |
 | :----                    | :----               | :----                        | :----                        |
 {% include data.md %}
