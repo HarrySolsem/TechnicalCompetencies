@@ -2,7 +2,7 @@
 title: Technical Competencies
 ---
 
-## Denne tabellen viser mine tekniske og rammeverkkompetanser
+## Denne tabellen viser noe av min kompetanse innen tekniske verktøy, metodikker og rammeverk
 
 ***
 <p id="annenkompetanse"></p>
