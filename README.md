@@ -1,2 +1,2 @@
-# TechnicalCompetencies
-Repo som inneholder en nettside som viser tabell med annen teknisk kompetanse
+﻿# TechnicalCompetencies
+Repo som inneholder en nettside som viser tabell med annen teknisk kompetanse.

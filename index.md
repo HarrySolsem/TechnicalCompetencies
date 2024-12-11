@@ -1,4 +1,4 @@
----
+ï»¿---
 title: Technical Competencies
 ---
 
@@ -8,6 +8,6 @@ title: Technical Competencies
 <p id="annenkompetanse"></p>
 ### ANNEN KOMPETANSE
 
-| Metodikker               | Programmeringsspråk | Verktøy                      | Rammeverk                    |
+| Metodikker               | ProgrammeringssprÃ¥k | VerktÃ¸y                      | Rammeverk                    |
 | :----                    | :----               | :----                        | :----                        |
 {% include data.md %}
