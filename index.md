@@ -8,6 +8,6 @@ title: Teknisk kompetanse
 <p id="annenkompetanse"></p>
 
 
-| Metodikker               | Programmeringsspråk | Verktøy                      | Rammeverk                    |
-| :----                    | :----               | :----                        | :----                        |
+| Metodikker               | Programmeringsspråk | Verktøy                      | Rammeverk                    | Annet | 
+| :----                    | :----               | :----                        | :----                        | :---- |
 {% include data.md %}

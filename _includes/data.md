@@ -1,4 +1,4 @@
-﻿| Scrum                    | Turbo Pascal          | Microsoft Visual Studio      | Microsoft Foundation Classes |
+﻿| Scrum                    | Turbo Pascal          | Microsoft Visual Studio      | Microsoft Foundation Classes | Team Topologies |
 | Kanban                   | Assembler             | Microsoft Visual Studio Code | Microsoft.NET                |
 | Lean                     | Ada                   | Sql Management Studio        | Microsoft Winforms           |
 | Prosci Change Management | Delphi                | TeamCity                     | Microsoft ADO.NET            |
